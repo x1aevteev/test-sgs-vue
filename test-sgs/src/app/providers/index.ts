@@ -1,0 +1,1 @@
+export {useMainStore} from './StoreProvider/store'
